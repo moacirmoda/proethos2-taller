@@ -28,3 +28,8 @@ New fields
 ----------
 - Code: [https://github.com/moacirmoda/proethos2/tree/taller-newfield](https://github.com/moacirmoda/proethos2/tree/taller-newfield)
 - New commits: [https://github.com/moacirmoda/proethos2/commits/taller-newfield](https://github.com/moacirmoda/proethos2/commits/taller-newfield)
+
+Flow customizations
+----------
+- Code: [https://github.com/moacirmoda/proethos2/tree/taller-customflow](https://github.com/moacirmoda/proethos2/tree/taller-customflow)
+- New commits: [https://github.com/moacirmoda/proethos2/commits/taller-customflow](https://github.com/moacirmoda/proethos2/commits/taller-customflow)
